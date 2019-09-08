@@ -1,0 +1,41 @@
+methodology
+key metrics
+other considerations
+
+setting
+	neighborhoods and rental market in Amsterdam
+characters
+	Airbnb hosts and renters, client
+problem
+	identify the best neighborhood
+resolution
+	recommendation
+
+find some important points
+
+think about the goal of the presentation and what the audience wants to get out of it
+
+avoid
+	too much text
+	low quality visuals
+		too many visuals that aren't relevant
+	poor font choices
+	irrelevant transitions and animations
+
+usually good practice
+	text and supporting visuals, side-by-side (together on one slide)
+
+Slide 1
+	title slide with name
+Slide 2
+	address key question
+Slide 3
+	methodology to answer the question (what assumptions did I make)
+Slide 4
+	summary of the analysis
+Slide 5
+	visualization of results and explanatory text
+Slide 6
+	slide with recommendation and conclusion to presentation
+
+Save as c_chiang_finalproject.pptx

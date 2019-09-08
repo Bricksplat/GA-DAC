@@ -1,0 +1,55 @@
+Which neighborhood in Amsterdam to invest in?
+	avoid very expensive areas
+		Centrum-Oost
+		Centurm-West
+	looking at
+		West boroughs
+		Nieuw-West boroughs
+		possibly Zuidoost if area is popular with renters
+	additional?
+
+Home, maybe apartment
+
+Entire place would be rented out when away
+
+What are some popular listing attributes?
+
+Key metrics: location and rental income
+
+How do the prices hosts advertise compare between neighborhoods and between different housing and room types?
+
+How much competition (number of listings) is there in different neighborhoods?
+
+What monthly/annual income should we expect based on possible locations for an Airbnb rental?
+
+Cleaning fee
+	1 Time
+Extra guest fee
+	1 Time
+
+Average length of stay
+	3.9 nights
+
+monthly_income_est
+	cleaning fee (col X)
+		1 Time	* booking_per_month
+	extra guest fee (col Z)
+		guests_included (col Y)
+		1 Time * booking_per_month
+	price (col T) per night * days_booked_per_month_est
+
+WORKING ON
+	presentation
+		initial impressions of analysis
+		focus on conveying broad understanding of the market
+
+		answer
+			how many properties are listed on Airbnb in Amsterdam?
+				how many houses and apartments?
+				how many high availability listings?
+			average monthly income for Airbnb properties in Amsterdam?
+				by borough/neighborhood?
+			outline next steps for analysis
+
+Data!$A$1:$AZ$9772
+	
